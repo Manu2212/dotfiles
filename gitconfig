@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = manuel.clemens91@gmail.com
+	name = Manuel Clemens
